@@ -8,7 +8,7 @@ It is created for educational purposes during graduate degree program; in curren
 
 # Necessary resources to locate in project directory:  
 csv files: pre-processed Heart Disease data from Machine Learning Repository at UC-Irvine
-http://archive.ics.uci.edu/ml/datasets/heart+Disease
+Original source: http://archive.ics.uci.edu/ml/datasets/heart+Disease
 
 The original authors of the UCI databases have requested that any publications resulting from the use of the data include the names of the principal investigator responsible for the data collection at each institution. They would be: 
 1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D. 
