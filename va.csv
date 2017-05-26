@@ -1,0 +1,201 @@
+ID,age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,class,cv_disease,color_logic,line_logic,mean.of.chol.bps
+2,63,Male,None,140,260,Normal,ST segment,112,1,3,2,?,?,2,>50% Blockage,2,0.5,200
+3,44,Male,None,130,209,Normal,ST segment,127,0,0,?,?,?,0,Normal,1,0.5,169.5
+4,60,Male,None,132,218,Normal,ST segment,140,1,1.5,3,?,?,2,>50% Blockage,2,0.5,175
+5,55,Male,None,142,228,Normal,ST segment,149,1,2.5,1,?,?,1,>50% Blockage,2,0.5,185
+6,66,Male,3,110,213,High,LVH,99,1,1.3,2,?,?,0,Normal,1,1.5,161.5
+7,66,Male,3,120,?,Normal,ST segment,120,0,-0.5,1,?,?,0,Normal,1,1.5,120
+8,65,Male,None,150,236,High,ST segment,105,1,0,?,?,?,3,>50% Blockage,2,0.5,193
+9,60,Male,3,180,?,Normal,ST segment,140,1,1.5,2,?,?,0,Normal,1,1.5,180
+10,60,Male,3,120,?,?,Normal,141,1,2,1,?,?,3,>50% Blockage,2,1.5,120
+11,60,Male,2,160,267,High,ST segment,157,0,0.5,2,?,?,1,>50% Blockage,2,1.5,213.5
+12,56,Male,2,126,166,Normal,ST segment,140,0,0,?,?,?,0,Normal,1,1.5,146
+13,59,Male,None,140,?,Normal,ST segment,117,1,1,2,?,?,1,>50% Blockage,2,0.5,140
+14,62,Male,None,110,?,Normal,Normal,120,1,0.5,2,?,3,1,>50% Blockage,2,0.5,110
+15,63,Male,3,?,?,Normal,LVH,?,?,?,?,?,?,1,>50% Blockage,2,1.5,?
+16,57,Male,None,128,?,High,ST segment,148,1,1,2,?,?,1,>50% Blockage,2,0.5,128
+17,62,Male,None,120,220,Normal,ST segment,86,0,0,?,?,?,0,Normal,1,0.5,170
+18,63,Male,None,170,177,Normal,Normal,84,1,2.5,3,?,?,4,>50% Blockage,2,0.5,173.5
+19,46,Male,None,110,236,Normal,Normal,125,1,2,2,?,?,1,>50% Blockage,2,0.5,173
+20,63,Male,None,126,?,Normal,ST segment,120,0,1.5,3,?,?,0,Normal,1,0.5,126
+21,60,Male,None,152,?,Normal,ST segment,118,1,0,?,?,7,0,Normal,1,0.5,152
+22,58,Male,None,116,?,Normal,Normal,124,0,1,1,?,?,2,>50% Blockage,2,0.5,116
+23,64,Male,None,120,?,High,ST segment,106,0,2,2,?,?,1,>50% Blockage,2,0.5,120
+24,63,Male,3,130,?,Normal,ST segment,111,1,0,?,?,?,3,>50% Blockage,2,1.5,130
+25,74,Male,3,?,?,Normal,Normal,?,?,?,?,?,?,0,Normal,1,1.5,?
+26,52,Male,3,128,?,Normal,ST segment,180,0,3,1,?,?,2,>50% Blockage,2,1.5,128
+27,69,Male,None,130,?,High,ST segment,129,0,1,2,?,6,2,>50% Blockage,2,0.5,130
+28,51,Male,None,?,?,High,ST segment,?,?,?,?,?,?,2,>50% Blockage,2,0.5,?
+29,60,Male,None,130,186,High,ST segment,140,1,0.5,2,?,?,1,>50% Blockage,2,0.5,158
+30,56,Male,None,120,100,Normal,Normal,120,1,1.5,2,0,7,1,>50% Blockage,2,0.5,110
+31,55,Male,3,?,228,Normal,ST segment,?,?,?,?,?,?,3,>50% Blockage,2,1.5,?
+32,54,Male,None,?,?,Normal,ST segment,?,?,?,?,?,?,3,>50% Blockage,2,0.5,?
+33,77,Male,None,124,171,Normal,ST segment,110,1,2,1,?,?,3,>50% Blockage,2,0.5,147.5
+34,63,Male,None,160,230,High,Normal,105,1,1,2,?,?,3,>50% Blockage,2,0.5,195
+35,55,Male,3,?,?,Normal,Normal,155,0,1.5,2,?,?,3,>50% Blockage,2,1.5,?
+36,52,Male,3,122,?,Normal,Normal,110,1,2,3,?,?,2,>50% Blockage,2,1.5,122
+37,64,Male,None,144,?,Normal,ST segment,122,1,1,2,?,?,3,>50% Blockage,2,0.5,144
+38,60,Male,None,?,281,Normal,ST segment,?,?,?,?,?,?,2,>50% Blockage,2,0.5,?
+39,60,Male,None,120,?,Normal,Normal,133,1,2,1,?,7,0,Normal,1,0.5,120
+40,58,Male,None,?,203,High,Normal,?,?,?,?,?,?,1,>50% Blockage,2,0.5,?
+41,59,Male,None,154,?,Normal,ST segment,131,1,1.5,?,0,?,0,Normal,1,0.5,154
+42,61,Male,3,120,?,Normal,Normal,80,1,0,2,?,?,3,>50% Blockage,2,1.5,120
+43,40,Male,None,125,?,High,Normal,165,0,0,?,?,7,1,>50% Blockage,2,0.5,125
+44,61,Male,None,?,?,High,ST segment,86,0,1.5,2,?,7,3,>50% Blockage,2,0.5,?
+45,41,Male,None,104,?,Normal,ST segment,111,0,0,?,?,?,0,Normal,1,0.5,104
+46,57,Male,None,?,277,High,ST segment,?,?,?,?,?,?,4,>50% Blockage,2,0.5,?
+47,63,Male,None,136,?,Normal,Normal,84,1,0,?,?,7,2,>50% Blockage,2,0.5,136
+48,59,Male,None,122,233,Normal,Normal,117,1,1.3,3,?,?,1,>50% Blockage,2,0.5,177.5
+49,51,Male,None,128,?,Normal,Normal,107,0,0,?,?,?,0,Normal,1,0.5,128
+50,59,Male,3,?,?,Normal,Normal,128,1,2,3,?,?,2,>50% Blockage,2,1.5,?
+51,42,Male,3,134,240,?,Normal,160,0,0,?,?,?,0,Normal,1,1.5,187
+52,55,Male,3,120,?,Normal,ST segment,125,1,2.5,2,?,7,1,>50% Blockage,2,1.5,120
+53,63,Female,2,?,?,Normal,Normal,?,?,?,?,?,?,0,Normal,1,1.5,?
+54,62,Male,None,152,153,Normal,ST segment,97,1,1.6,1,?,7,2,>50% Blockage,2,0.5,152.5
+55,56,Male,2,124,224,High,Normal,161,0,2,2,?,?,0,Normal,1,1.5,174
+56,53,Male,None,126,?,Normal,Normal,106,0,0,?,?,?,1,>50% Blockage,2,0.5,126
+57,68,Male,None,138,?,Normal,Normal,130,1,3,2,?,?,2,>50% Blockage,2,0.5,138
+58,53,Male,None,154,?,?,ST segment,140,1,1.5,2,?,?,2,>50% Blockage,2,0.5,154
+59,60,Male,3,?,316,High,ST segment,?,?,?,?,?,?,3,>50% Blockage,2,1.5,?
+60,62,Male,2,?,?,Normal,Normal,?,?,?,?,?,?,0,Normal,1,1.5,?
+61,59,Male,None,178,?,High,LVH,120,1,0,?,?,7,1,>50% Blockage,2,0.5,178
+62,51,Male,None,?,218,High,LVH,?,?,?,?,?,?,0,Normal,1,0.5,?
+63,61,Male,None,110,?,?,Normal,108,1,2,3,?,?,2,>50% Blockage,2,0.5,110
+64,57,Male,None,130,311,?,ST segment,148,1,2,2,?,?,1,>50% Blockage,2,0.5,220.5
+65,56,Male,3,170,?,Normal,LVH,123,1,2.5,?,?,?,4,>50% Blockage,2,1.5,170
+66,58,Male,2,126,?,High,Normal,110,1,2,2,?,?,2,>50% Blockage,2,1.5,126
+67,69,Male,3,140,?,?,ST segment,118,0,2.5,3,?,?,2,>50% Blockage,2,1.5,140
+68,67,Male,1,142,270,High,Normal,125,0,2.5,1,?,?,3,>50% Blockage,2,1.5,206
+69,58,Male,None,120,?,Normal,LVH,106,1,1.5,3,?,7,1,>50% Blockage,2,0.5,120
+70,65,Male,None,?,?,Normal,Normal,?,?,?,?,?,?,1,>50% Blockage,2,0.5,?
+71,63,Male,2,?,217,High,ST segment,?,?,?,?,?,?,1,>50% Blockage,2,1.5,?
+72,55,Male,2,110,214,High,ST segment,180,0,?,?,?,?,0,Normal,1,1.5,162
+73,57,Male,None,140,214,Normal,ST segment,144,1,2,2,?,6,2,>50% Blockage,2,0.5,177
+74,65,Male,1,?,252,Normal,Normal,?,?,?,?,?,?,0,Normal,1,1.5,?
+75,54,Male,None,136,220,Normal,Normal,140,1,3,2,?,?,3,>50% Blockage,2,0.5,178
+76,72,Male,3,120,214,Normal,Normal,102,1,1,2,?,?,3,>50% Blockage,2,1.5,167
+77,75,Male,None,170,203,High,ST segment,108,0,0,?,?,7,1,>50% Blockage,2,0.5,186.5
+78,49,Male,1,130,?,Normal,ST segment,145,0,3,2,?,?,2,>50% Blockage,2,1.5,130
+79,51,Male,3,?,339,Normal,Normal,?,?,?,?,?,?,3,>50% Blockage,2,1.5,?
+80,60,Male,None,142,216,Normal,Normal,110,1,2.5,2,?,?,2,>50% Blockage,2,0.5,179
+81,64,Female,None,142,276,Normal,Normal,140,1,1,2,?,7,1,>50% Blockage,2,0.5,209
+82,58,Male,None,132,458,High,Normal,69,0,1,3,?,?,0,Normal,1,0.5,295
+83,61,Male,None,146,241,Normal,Normal,148,1,3,3,?,?,2,>50% Blockage,2,0.5,193.5
+84,67,Male,None,160,384,High,ST segment,130,1,0,2,?,?,2,>50% Blockage,2,0.5,272
+85,62,Male,None,135,297,Normal,Normal,130,1,1,2,?,?,2,>50% Blockage,2,0.5,216
+86,65,Male,None,136,248,Normal,Normal,140,1,4,3,?,?,4,>50% Blockage,2,0.5,192
+87,63,Male,None,130,308,Normal,Normal,138,1,2,2,?,?,2,>50% Blockage,2,0.5,219
+88,69,Male,None,140,208,Normal,ST segment,140,1,2,?,?,?,3,>50% Blockage,2,0.5,174
+89,51,Male,None,?,227,High,ST segment,?,?,?,?,?,?,0,Normal,1,0.5,?
+90,62,Male,None,158,210,High,Normal,112,1,3,3,?,?,1,>50% Blockage,2,0.5,184
+91,55,Male,3,?,245,High,ST segment,?,?,?,?,?,?,1,>50% Blockage,2,1.5,?
+92,75,Male,None,136,225,Normal,Normal,112,1,3,2,?,?,3,>50% Blockage,2,0.5,180.5
+93,40,Male,3,106,240,Normal,Normal,80,1,0,?,?,7,0,Normal,1,1.5,173
+94,67,Male,None,120,?,High,Normal,150,0,1.5,3,?,?,3,>50% Blockage,2,0.5,120
+95,58,Male,None,110,198,Normal,Normal,110,0,0,?,?,?,1,>50% Blockage,2,0.5,154
+96,60,Male,None,?,195,Normal,Normal,?,?,?,?,?,?,0,Normal,1,0.5,?
+97,63,Male,None,160,267,High,ST segment,88,1,2,?,?,?,3,>50% Blockage,2,0.5,213.5
+98,35,Male,3,?,161,Normal,ST segment,?,?,?,?,?,?,0,Normal,1,1.5,?
+99,62,Male,1,112,258,Normal,ST segment,150,1,?,?,?,?,1,>50% Blockage,2,1.5,185
+100,43,Male,None,122,?,Normal,Normal,120,0,0.5,1,?,?,1,>50% Blockage,2,0.5,122
+101,63,Male,3,130,?,High,ST segment,160,0,3,2,?,?,0,Normal,1,1.5,130
+102,68,Male,3,150,195,High,Normal,132,0,0,?,?,6,1,>50% Blockage,2,1.5,172.5
+103,65,Male,None,150,235,Normal,Normal,120,1,1.5,2,?,?,3,>50% Blockage,2,0.5,192.5
+104,48,Male,3,102,?,?,ST segment,110,1,1,3,?,?,1,>50% Blockage,2,1.5,102
+105,63,Male,None,96,305,Normal,ST segment,121,1,1,1,?,?,1,>50% Blockage,2,0.5,200.5
+106,64,Male,None,130,223,Normal,ST segment,128,0,0.5,2,?,?,0,Normal,1,0.5,176.5
+107,61,Male,None,120,282,Normal,ST segment,135,1,4,3,?,6,3,>50% Blockage,2,0.5,201
+108,50,Male,None,144,349,Normal,LVH,120,1,1,1,?,7,1,>50% Blockage,2,0.5,246.5
+109,59,Male,None,124,?,Normal,Normal,117,1,1,2,?,?,1,>50% Blockage,2,0.5,124
+110,55,Male,None,150,160,Normal,ST segment,150,0,0,?,?,?,0,Normal,1,0.5,155
+111,45,Male,3,?,236,Normal,Normal,?,?,?,?,?,?,0,Normal,1,1.5,?
+112,65,Male,None,?,312,Normal,LVH,?,?,?,?,?,?,3,>50% Blockage,2,0.5,?
+113,61,Male,2,?,283,Normal,Normal,?,?,?,?,?,?,0,Normal,1,1.5,?
+114,49,Male,3,?,142,Normal,Normal,?,?,?,?,?,?,3,>50% Blockage,2,1.5,?
+115,72,Male,None,?,211,Normal,Normal,?,?,?,?,?,?,1,>50% Blockage,2,0.5,?
+116,50,Male,None,?,218,Normal,Normal,?,?,?,?,?,?,1,>50% Blockage,2,0.5,?
+117,64,Male,None,?,306,High,ST segment,?,?,?,?,?,?,3,>50% Blockage,2,0.5,?
+118,55,Male,None,116,186,High,ST segment,102,0,0,?,?,?,2,>50% Blockage,2,0.5,151
+119,63,Male,None,110,252,Normal,ST segment,140,1,2,2,?,?,2,>50% Blockage,2,0.5,181
+120,59,Male,None,125,222,Normal,Normal,135,1,2.5,3,?,?,3,>50% Blockage,2,0.5,173.5
+121,56,Male,None,?,?,Normal,LVH,?,?,?,?,?,?,1,>50% Blockage,2,0.5,?
+122,62,Male,3,?,?,High,ST segment,?,?,?,?,?,?,2,>50% Blockage,2,1.5,?
+123,74,Male,None,150,258,High,ST segment,130,1,4,3,?,?,3,>50% Blockage,2,0.5,204
+124,54,Male,None,130,202,High,Normal,112,1,2,2,?,?,1,>50% Blockage,2,0.5,166
+125,57,Male,None,110,197,Normal,LVH,100,0,0,?,?,?,0,Normal,1,0.5,153.5
+126,62,Male,3,?,204,Normal,ST segment,?,?,?,?,?,?,1,>50% Blockage,2,1.5,?
+127,76,Male,3,104,?,Normal,LVH,120,0,3.5,3,?,?,4,>50% Blockage,2,1.5,104
+128,54,Female,None,138,274,Normal,Normal,105,1,1.5,2,?,?,1,>50% Blockage,2,0.5,206
+129,70,Male,None,170,192,Normal,ST segment,129,1,3,3,?,?,2,>50% Blockage,2,0.5,181
+130,61,Female,2,140,298,High,Normal,120,1,0,?,?,7,0,Normal,1,1.5,219
+131,48,Male,None,?,272,Normal,ST segment,?,?,?,?,?,?,0,Normal,1,0.5,?
+132,48,Male,3,132,220,High,ST segment,162,0,0,?,?,6,1,>50% Blockage,2,1.5,176
+133,61,Male,1,142,200,High,ST segment,100,0,1.5,3,?,?,3,>50% Blockage,2,1.5,171
+134,66,Male,None,112,261,Normal,Normal,140,0,1.5,1,?,?,1,>50% Blockage,2,0.5,186.5
+135,68,Male,1,?,181,High,ST segment,?,?,?,?,?,?,0,Normal,1,1.5,?
+136,55,Male,None,172,260,Normal,Normal,73,0,2,?,?,?,3,>50% Blockage,2,0.5,216
+137,62,Male,3,120,220,Normal,LVH,86,0,0,?,?,?,0,Normal,1,1.5,170
+138,71,Male,3,?,221,Normal,Normal,?,?,?,?,?,?,3,>50% Blockage,2,1.5,?
+139,74,Male,1,?,216,High,Normal,?,?,?,?,?,?,3,>50% Blockage,2,1.5,?
+140,53,Male,3,155,175,High,ST segment,160,0,?,?,?,6,0,Normal,1,1.5,165
+141,58,Male,3,150,219,Normal,ST segment,118,1,0,?,?,?,2,>50% Blockage,2,1.5,184.5
+142,75,Male,None,160,310,High,Normal,112,1,2,3,?,7,0,Normal,1,0.5,235
+143,56,Male,3,?,208,High,ST segment,?,?,?,?,?,?,4,>50% Blockage,2,1.5,?
+144,58,Male,3,?,232,Normal,ST segment,?,?,?,?,?,?,2,>50% Blockage,2,1.5,?
+145,64,Male,None,134,273,Normal,Normal,102,1,4,3,?,?,4,>50% Blockage,2,0.5,203.5
+146,54,Male,3,?,203,Normal,ST segment,?,?,?,?,?,?,0,Normal,1,1.5,?
+147,54,Male,2,?,182,Normal,ST segment,?,?,?,?,?,?,0,Normal,1,1.5,?
+148,59,Male,None,140,274,Normal,Normal,154,1,2,2,?,?,0,Normal,1,0.5,207
+149,55,Male,None,?,204,High,ST segment,?,?,?,?,?,?,1,>50% Blockage,2,0.5,?
+150,57,Male,None,144,270,High,ST segment,160,1,2,2,?,?,3,>50% Blockage,2,0.5,207
+151,61,Male,None,?,292,Normal,ST segment,?,?,?,?,?,?,3,>50% Blockage,2,0.5,?
+152,41,Male,None,150,171,Normal,Normal,128,1,1.5,2,?,?,0,Normal,1,0.5,160.5
+153,71,Male,None,130,221,Normal,ST segment,115,1,0,?,?,?,3,>50% Blockage,2,0.5,175.5
+154,38,Male,None,110,289,Normal,Normal,105,1,1.5,3,?,?,1,>50% Blockage,2,0.5,199.5
+155,55,Male,None,158,217,Normal,Normal,110,1,2.5,2,?,?,1,>50% Blockage,2,0.5,187.5
+156,56,Male,None,128,223,Normal,ST segment,119,1,2,3,?,?,2,>50% Blockage,2,0.5,175.5
+157,69,Male,None,?,?,High,Normal,?,?,?,?,?,?,2,>50% Blockage,2,0.5,?
+158,64,Male,None,150,193,Normal,ST segment,135,1,0.5,2,?,?,2,>50% Blockage,2,0.5,171.5
+159,72,Male,None,160,?,High,LVH,130,0,1.5,?,?,?,2,>50% Blockage,2,0.5,160
+160,69,Male,None,?,210,High,ST segment,?,?,?,?,?,?,2,>50% Blockage,2,0.5,?
+161,56,Male,None,?,282,High,Normal,?,?,?,?,?,?,1,>50% Blockage,2,0.5,?
+162,62,Male,None,?,170,Normal,ST segment,120,1,3,?,?,?,4,>50% Blockage,2,0.5,?
+163,67,Male,None,?,369,Normal,Normal,?,?,?,?,?,?,3,>50% Blockage,2,0.5,?
+164,57,Male,None,156,173,Normal,LVH,119,1,3,3,?,?,3,>50% Blockage,2,0.5,164.5
+165,69,Male,None,?,289,High,ST segment,?,?,?,?,?,?,3,>50% Blockage,2,0.5,?
+166,51,Male,None,?,?,High,LVH,?,?,?,?,?,7,1,>50% Blockage,2,0.5,?
+167,48,Male,None,140,?,Normal,Normal,159,1,1.5,1,?,?,3,>50% Blockage,2,0.5,140
+168,69,Male,None,122,216,High,LVH,84,1,0,?,?,7,2,>50% Blockage,2,0.5,169
+169,69,Male,3,?,271,Normal,LVH,?,?,?,?,?,?,0,Normal,1,1.5,?
+170,64,Male,None,?,244,High,ST segment,?,?,?,?,?,?,2,>50% Blockage,2,0.5,?
+171,57,Male,2,180,285,High,ST segment,120,0,0.8,?,?,?,1,>50% Blockage,2,1.5,232.5
+172,53,Male,None,124,243,Normal,Normal,122,1,2,2,?,7,1,>50% Blockage,2,0.5,183.5
+173,37,Male,3,118,240,Normal,LVH,165,0,1,2,?,3,0,Normal,1,1.5,179
+174,67,Male,None,140,219,Normal,ST segment,122,1,2,2,?,7,3,>50% Blockage,2,0.5,179.5
+175,74,Male,3,140,237,High,Normal,94,0,0,?,?,?,1,>50% Blockage,2,1.5,188.5
+176,63,Male,2,?,165,Normal,ST segment,?,?,?,?,?,?,0,Normal,1,1.5,?
+177,58,Male,None,100,213,Normal,ST segment,110,0,0,?,?,?,0,Normal,1,0.5,156.5
+178,61,Male,None,190,287,High,LVH,150,1,2,3,?,?,4,>50% Blockage,2,0.5,238.5
+179,64,Male,None,130,258,High,LVH,130,0,0,?,?,6,2,>50% Blockage,2,0.5,194
+180,58,Male,None,160,256,High,LVH,113,1,1,1,?,?,3,>50% Blockage,2,0.5,208
+181,60,Male,None,130,186,High,LVH,140,1,0.5,2,?,?,1,>50% Blockage,2,0.5,158
+182,57,Male,None,122,264,Normal,LVH,100,0,0,?,?,?,1,>50% Blockage,2,0.5,193
+183,55,Male,3,?,?,Normal,ST segment,?,?,?,?,?,?,0,Normal,1,1.5,?
+184,55,Male,None,120,226,Normal,LVH,127,1,1.7,3,?,7,1,>50% Blockage,2,0.5,173
+185,56,Male,None,130,203,High,Normal,98,0,1.5,2,?,7,1,>50% Blockage,2,0.5,166.5
+186,57,Male,None,130,207,Normal,ST segment,96,1,1,2,?,?,0,Normal,1,0.5,168.5
+187,61,Male,3,?,284,Normal,Normal,?,?,?,?,?,?,1,>50% Blockage,2,1.5,?
+188,61,Male,3,120,337,Normal,Normal,98,1,0,?,?,?,3,>50% Blockage,2,1.5,228.5
+189,58,Male,3,150,219,Normal,ST segment,118,1,0,?,?,?,2,>50% Blockage,2,1.5,184.5
+190,74,Male,None,155,310,Normal,Normal,112,1,1.5,3,?,?,2,>50% Blockage,2,0.5,232.5
+191,68,Male,3,134,254,High,Normal,151,1,0,?,?,3,0,Normal,1,1.5,194
+192,51,Female,None,114,258,High,LVH,96,0,1,1,?,?,0,Normal,1,0.5,186
+193,62,Male,None,160,254,High,ST segment,108,1,3,2,?,?,4,>50% Blockage,2,0.5,207
+194,53,Male,None,144,300,High,ST segment,128,1,1.5,2,?,?,3,>50% Blockage,2,0.5,222
+195,62,Male,None,158,170,Normal,ST segment,138,1,0,?,?,?,1,>50% Blockage,2,0.5,164
+196,46,Male,None,134,310,Normal,Normal,126,0,0,?,?,3,2,>50% Blockage,2,0.5,222
+197,54,Female,None,127,333,High,ST segment,154,0,0,?,?,?,1,>50% Blockage,2,0.5,230
+198,62,Male,1,?,139,Normal,ST segment,?,?,?,?,?,?,0,Normal,1,1.5,?
+199,55,Male,None,122,223,High,ST segment,100,0,0,?,?,6,2,>50% Blockage,2,0.5,172.5
+200,58,Male,None,?,385,High,LVH,?,?,?,?,?,?,0,Normal,1,0.5,?
+201,62,Male,2,120,254,Normal,LVH,93,1,0,?,?,?,1,>50% Blockage,2,1.5,187

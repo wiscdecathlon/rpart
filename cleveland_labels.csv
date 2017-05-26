@@ -1,0 +1,304 @@
+ID,age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,class,cv_disease,color_logic,line_logic,mean.of.chol.bps
+2,63,Male,1,145,233,High,LVH,150,0,2.3,3,0,6,0,Normal,1,1.5,189
+3,67,Male,None,160,286,Normal,LVH,108,1,1.5,2,3,3,2,>50% Blockage,2,0.5,223
+4,67,Male,None,120,229,Normal,LVH,129,1,2.6,2,2,7,1,>50% Blockage,2,0.5,174.5
+5,37,Male,3,130,250,Normal,Normal,187,0,3.5,3,0,3,0,Normal,1,1.5,190
+6,41,Female,2,130,204,Normal,LVH,172,0,1.4,1,0,3,0,Normal,1,1.5,167
+7,56,Male,2,120,236,Normal,Normal,178,0,0.8,1,0,3,0,Normal,1,1.5,178
+8,62,Female,None,140,268,Normal,LVH,160,0,3.6,3,2,3,3,>50% Blockage,2,0.5,204
+9,57,Female,None,120,354,Normal,Normal,163,1,0.6,1,0,3,0,Normal,1,0.5,237
+10,63,Male,None,130,254,Normal,LVH,147,0,1.4,2,1,7,2,>50% Blockage,2,0.5,192
+11,53,Male,None,140,203,High,LVH,155,1,3.1,3,0,7,1,>50% Blockage,2,0.5,171.5
+12,57,Male,None,140,192,Normal,Normal,148,0,0.4,2,0,6,0,Normal,1,0.5,166
+13,56,Female,2,140,294,Normal,LVH,153,0,1.3,2,0,3,0,Normal,1,1.5,217
+14,56,Male,3,130,256,High,LVH,142,1,0.6,2,1,6,2,>50% Blockage,2,1.5,193
+15,44,Male,2,120,263,Normal,Normal,173,0,0,1,0,7,0,Normal,1,1.5,191.5
+16,52,Male,3,172,199,High,Normal,162,0,0.5,1,0,7,0,Normal,1,1.5,185.5
+17,57,Male,3,150,168,Normal,Normal,174,0,1.6,1,0,3,0,Normal,1,1.5,159
+18,48,Male,2,110,229,Normal,Normal,168,0,1,3,0,7,1,>50% Blockage,2,1.5,169.5
+19,54,Male,None,140,239,Normal,Normal,160,0,1.2,1,0,3,0,Normal,1,0.5,189.5
+20,48,Female,3,130,275,Normal,Normal,139,0,0.2,1,0,3,0,Normal,1,1.5,202.5
+21,49,Male,2,130,266,Normal,Normal,171,0,0.6,1,0,3,0,Normal,1,1.5,198
+22,64,Male,1,110,211,Normal,LVH,144,1,1.8,2,0,3,0,Normal,1,1.5,160.5
+23,58,Female,1,150,283,High,LVH,162,0,1,1,0,3,0,Normal,1,1.5,216.5
+24,58,Male,2,120,284,Normal,LVH,160,0,1.8,2,0,3,1,>50% Blockage,2,1.5,202
+25,58,Male,3,132,224,Normal,LVH,173,0,3.2,1,2,7,3,>50% Blockage,2,1.5,178
+26,60,Male,None,130,206,Normal,LVH,132,1,2.4,2,2,7,4,>50% Blockage,2,0.5,168
+27,50,Female,3,120,219,Normal,Normal,158,0,1.6,2,0,3,0,Normal,1,1.5,169.5
+28,58,Female,3,120,340,Normal,Normal,172,0,0,1,0,3,0,Normal,1,1.5,230
+29,66,Female,1,150,226,Normal,Normal,114,0,2.6,3,0,3,0,Normal,1,1.5,188
+30,43,Male,None,150,247,Normal,Normal,171,0,1.5,1,0,3,0,Normal,1,0.5,198.5
+31,40,Male,None,110,167,Normal,LVH,114,1,2,2,0,7,3,>50% Blockage,2,0.5,138.5
+32,69,Female,1,140,239,Normal,Normal,151,0,1.8,1,2,3,0,Normal,1,1.5,189.5
+33,60,Male,None,117,230,High,Normal,160,1,1.4,1,2,7,2,>50% Blockage,2,0.5,173.5
+34,64,Male,3,140,335,Normal,Normal,158,0,0,1,0,3,1,>50% Blockage,2,1.5,237.5
+35,59,Male,None,135,234,Normal,Normal,161,0,0.5,2,0,7,0,Normal,1,0.5,184.5
+36,44,Male,3,130,233,Normal,Normal,179,1,0.4,1,0,3,0,Normal,1,1.5,181.5
+37,42,Male,None,140,226,Normal,Normal,178,0,0,1,0,3,0,Normal,1,0.5,183
+38,43,Male,None,120,177,Normal,LVH,120,1,2.5,2,0,7,3,>50% Blockage,2,0.5,148.5
+39,57,Male,None,150,276,Normal,LVH,112,1,0.6,2,1,6,1,>50% Blockage,2,0.5,213
+40,55,Male,None,132,353,Normal,Normal,132,1,1.2,2,1,7,3,>50% Blockage,2,0.5,242.5
+41,61,Male,3,150,243,High,Normal,137,1,1,2,0,3,0,Normal,1,1.5,196.5
+42,65,Female,None,150,225,Normal,LVH,114,0,1,2,3,7,4,>50% Blockage,2,0.5,187.5
+43,40,Male,1,140,199,Normal,Normal,178,1,1.4,1,0,7,0,Normal,1,1.5,169.5
+44,71,Female,2,160,302,Normal,Normal,162,0,0.4,1,2,3,0,Normal,1,1.5,231
+45,59,Male,3,150,212,High,Normal,157,0,1.6,1,0,3,0,Normal,1,1.5,181
+46,61,Female,None,130,330,Normal,LVH,169,0,0,1,0,3,1,>50% Blockage,2,0.5,230
+47,58,Male,3,112,230,Normal,LVH,165,0,2.5,2,1,7,4,>50% Blockage,2,1.5,171
+48,51,Male,3,110,175,Normal,Normal,123,0,0.6,1,0,3,0,Normal,1,1.5,142.5
+49,50,Male,None,150,243,Normal,LVH,128,0,2.6,2,0,7,4,>50% Blockage,2,0.5,196.5
+50,65,Female,3,140,417,High,LVH,157,0,0.8,1,1,3,0,Normal,1,1.5,278.5
+51,53,Male,3,130,197,High,LVH,152,0,1.2,3,0,3,0,Normal,1,1.5,163.5
+52,41,Female,2,105,198,Normal,Normal,168,0,0,1,1,3,0,Normal,1,1.5,151.5
+53,65,Male,None,120,177,Normal,Normal,140,0,0.4,1,0,7,0,Normal,1,0.5,148.5
+54,44,Male,None,112,290,Normal,LVH,153,0,0,1,1,3,2,>50% Blockage,2,0.5,201
+55,44,Male,2,130,219,Normal,LVH,188,0,0,1,0,3,0,Normal,1,1.5,174.5
+56,60,Male,None,130,253,Normal,Normal,144,1,1.4,1,1,7,1,>50% Blockage,2,0.5,191.5
+57,54,Male,None,124,266,Normal,LVH,109,1,2.2,2,1,7,1,>50% Blockage,2,0.5,195
+58,50,Male,3,140,233,Normal,Normal,163,0,0.6,2,1,7,1,>50% Blockage,2,1.5,186.5
+59,41,Male,None,110,172,Normal,LVH,158,0,0,1,0,7,1,>50% Blockage,2,0.5,141
+60,54,Male,3,125,273,Normal,LVH,152,0,0.5,3,1,3,0,Normal,1,1.5,199
+61,51,Male,1,125,213,Normal,LVH,125,1,1.4,1,1,3,0,Normal,1,1.5,169
+62,51,Female,None,130,305,Normal,Normal,142,1,1.2,2,0,7,2,>50% Blockage,2,0.5,217.5
+63,46,Female,3,142,177,Normal,LVH,160,1,1.4,3,0,3,0,Normal,1,1.5,159.5
+64,58,Male,None,128,216,Normal,LVH,131,1,2.2,2,3,7,1,>50% Blockage,2,0.5,172
+65,54,Female,3,135,304,High,Normal,170,0,0,1,0,3,0,Normal,1,1.5,219.5
+66,54,Male,None,120,188,Normal,Normal,113,0,1.4,2,1,7,2,>50% Blockage,2,0.5,154
+67,60,Male,None,145,282,Normal,LVH,142,1,2.8,2,2,7,2,>50% Blockage,2,0.5,213.5
+68,60,Male,3,140,185,Normal,LVH,155,0,3,2,0,3,1,>50% Blockage,2,1.5,162.5
+69,54,Male,3,150,232,Normal,LVH,165,0,1.6,1,0,7,0,Normal,1,1.5,191
+70,59,Male,None,170,326,Normal,LVH,140,1,3.4,3,0,7,2,>50% Blockage,2,0.5,248
+71,46,Male,3,150,231,Normal,Normal,147,0,3.6,2,0,3,1,>50% Blockage,2,1.5,190.5
+72,65,Female,3,155,269,Normal,Normal,148,0,0.8,1,0,3,0,Normal,1,1.5,212
+73,67,Male,None,125,254,High,Normal,163,0,0.2,2,2,7,3,>50% Blockage,2,0.5,189.5
+74,62,Male,None,120,267,Normal,Normal,99,1,1.8,2,2,7,1,>50% Blockage,2,0.5,193.5
+75,65,Male,None,110,248,Normal,LVH,158,0,0.6,1,2,6,1,>50% Blockage,2,0.5,179
+76,44,Male,None,110,197,Normal,LVH,177,0,0,1,1,3,1,>50% Blockage,2,0.5,153.5
+77,65,Female,3,160,360,Normal,LVH,151,0,0.8,1,0,3,0,Normal,1,1.5,260
+78,60,Male,None,125,258,Normal,LVH,141,1,2.8,2,1,7,1,>50% Blockage,2,0.5,191.5
+79,51,Female,3,140,308,Normal,LVH,142,0,1.5,1,1,3,0,Normal,1,1.5,224
+80,48,Male,2,130,245,Normal,LVH,180,0,0.2,2,0,3,0,Normal,1,1.5,187.5
+81,58,Male,None,150,270,Normal,LVH,111,1,0.8,1,0,7,3,>50% Blockage,2,0.5,210
+82,45,Male,None,104,208,Normal,LVH,148,1,3,2,0,3,0,Normal,1,0.5,156
+83,53,Female,None,130,264,Normal,LVH,143,0,0.4,2,0,3,0,Normal,1,0.5,197
+84,39,Male,3,140,321,Normal,LVH,182,0,0,1,0,3,0,Normal,1,1.5,230.5
+85,68,Male,3,180,274,High,LVH,150,1,1.6,2,0,7,3,>50% Blockage,2,1.5,227
+86,52,Male,2,120,325,Normal,Normal,172,0,0.2,1,0,3,0,Normal,1,1.5,222.5
+87,44,Male,3,140,235,Normal,LVH,180,0,0,1,0,3,0,Normal,1,1.5,187.5
+88,47,Male,3,138,257,Normal,LVH,156,0,0,1,0,3,0,Normal,1,1.5,197.5
+89,53,Female,3,128,216,Normal,LVH,115,0,0,1,0,?,0,Normal,1,1.5,172
+90,53,Female,None,138,234,Normal,LVH,160,0,0,1,0,3,0,Normal,1,0.5,186
+91,51,Female,3,130,256,Normal,LVH,149,0,0.5,1,0,3,0,Normal,1,1.5,193
+92,66,Male,None,120,302,Normal,LVH,151,0,0.4,2,0,3,0,Normal,1,0.5,211
+93,62,Female,None,160,164,Normal,LVH,145,0,6.2,3,3,7,3,>50% Blockage,2,0.5,162
+94,62,Male,3,130,231,Normal,Normal,146,0,1.8,2,3,7,0,Normal,1,1.5,180.5
+95,44,Female,3,108,141,Normal,Normal,175,0,0.6,2,0,3,0,Normal,1,1.5,124.5
+96,63,Female,3,135,252,Normal,LVH,172,0,0,1,0,3,0,Normal,1,1.5,193.5
+97,52,Male,None,128,255,Normal,Normal,161,1,0,1,1,7,1,>50% Blockage,2,0.5,191.5
+98,59,Male,None,110,239,Normal,LVH,142,1,1.2,2,1,7,2,>50% Blockage,2,0.5,174.5
+99,60,Female,None,150,258,Normal,LVH,157,0,2.6,2,2,7,3,>50% Blockage,2,0.5,204
+100,52,Male,2,134,201,Normal,Normal,158,0,0.8,1,1,3,0,Normal,1,1.5,167.5
+101,48,Male,None,122,222,Normal,LVH,186,0,0,1,0,3,0,Normal,1,0.5,172
+102,45,Male,None,115,260,Normal,LVH,185,0,0,1,0,3,0,Normal,1,0.5,187.5
+103,34,Male,1,118,182,Normal,LVH,174,0,0,1,0,3,0,Normal,1,1.5,150
+104,57,Female,None,128,303,Normal,LVH,159,0,0,1,1,3,0,Normal,1,0.5,215.5
+105,71,Female,3,110,265,High,LVH,130,0,0,1,1,3,0,Normal,1,1.5,187.5
+106,49,Male,3,120,188,Normal,Normal,139,0,2,2,3,7,3,>50% Blockage,2,1.5,154
+107,54,Male,2,108,309,Normal,Normal,156,0,0,1,0,7,0,Normal,1,1.5,208.5
+108,59,Male,None,140,177,Normal,Normal,162,1,0,1,1,7,2,>50% Blockage,2,0.5,158.5
+109,57,Male,3,128,229,Normal,LVH,150,0,0.4,2,1,7,1,>50% Blockage,2,1.5,178.5
+110,61,Male,None,120,260,Normal,Normal,140,1,3.6,2,1,7,2,>50% Blockage,2,0.5,190
+111,39,Male,None,118,219,Normal,Normal,140,0,1.2,2,0,7,3,>50% Blockage,2,0.5,168.5
+112,61,Female,None,145,307,Normal,LVH,146,1,1,2,0,7,1,>50% Blockage,2,0.5,226
+113,56,Male,None,125,249,High,LVH,144,1,1.2,2,1,3,1,>50% Blockage,2,0.5,187
+114,52,Male,1,118,186,Normal,LVH,190,0,0,2,0,6,0,Normal,1,1.5,152
+115,43,Female,None,132,341,High,LVH,136,1,3,2,0,7,2,>50% Blockage,2,0.5,236.5
+116,62,Female,3,130,263,Normal,Normal,97,0,1.2,2,1,7,2,>50% Blockage,2,1.5,196.5
+117,41,Male,2,135,203,Normal,Normal,132,0,0,2,0,6,0,Normal,1,1.5,169
+118,58,Male,3,140,211,High,LVH,165,0,0,1,0,3,0,Normal,1,1.5,175.5
+119,35,Female,None,138,183,Normal,Normal,182,0,1.4,1,0,3,0,Normal,1,0.5,160.5
+120,63,Male,None,130,330,High,LVH,132,1,1.8,1,3,7,3,>50% Blockage,2,0.5,230
+121,65,Male,None,135,254,Normal,LVH,127,0,2.8,2,1,7,2,>50% Blockage,2,0.5,194.5
+122,48,Male,None,130,256,High,LVH,150,1,0,1,2,7,3,>50% Blockage,2,0.5,193
+123,63,Female,None,150,407,Normal,LVH,154,0,4,2,3,7,4,>50% Blockage,2,0.5,278.5
+124,51,Male,3,100,222,Normal,Normal,143,1,1.2,2,0,3,0,Normal,1,1.5,161
+125,55,Male,None,140,217,Normal,Normal,111,1,5.6,3,0,7,3,>50% Blockage,2,0.5,178.5
+126,65,Male,1,138,282,High,LVH,174,0,1.4,2,1,3,1,>50% Blockage,2,1.5,210
+127,45,Female,2,130,234,Normal,LVH,175,0,0.6,2,0,3,0,Normal,1,1.5,182
+128,56,Female,None,200,288,High,LVH,133,1,4,3,2,7,3,>50% Blockage,2,0.5,244
+129,54,Male,None,110,239,Normal,Normal,126,1,2.8,2,1,7,3,>50% Blockage,2,0.5,174.5
+130,44,Male,2,120,220,Normal,Normal,170,0,0,1,0,3,0,Normal,1,1.5,170
+131,62,Female,None,124,209,Normal,Normal,163,0,0,1,0,3,0,Normal,1,0.5,166.5
+132,54,Male,3,120,258,Normal,LVH,147,0,0.4,2,0,7,0,Normal,1,1.5,189
+133,51,Male,3,94,227,Normal,Normal,154,1,0,1,1,7,0,Normal,1,1.5,160.5
+134,29,Male,2,130,204,Normal,LVH,202,0,0,1,0,3,0,Normal,1,1.5,167
+135,51,Male,None,140,261,Normal,LVH,186,1,0,1,0,3,0,Normal,1,0.5,200.5
+136,43,Female,3,122,213,Normal,Normal,165,0,0.2,2,0,3,0,Normal,1,1.5,167.5
+137,55,Female,2,135,250,Normal,LVH,161,0,1.4,2,0,3,0,Normal,1,1.5,192.5
+138,70,Male,None,145,174,Normal,Normal,125,1,2.6,3,0,7,4,>50% Blockage,2,0.5,159.5
+139,62,Male,2,120,281,Normal,LVH,103,0,1.4,2,1,7,3,>50% Blockage,2,1.5,200.5
+140,35,Male,None,120,198,Normal,Normal,130,1,1.6,2,0,7,1,>50% Blockage,2,0.5,159
+141,51,Male,3,125,245,High,LVH,166,0,2.4,2,0,3,0,Normal,1,1.5,185
+142,59,Male,2,140,221,Normal,Normal,164,1,0,1,0,3,0,Normal,1,1.5,180.5
+143,59,Male,1,170,288,Normal,LVH,159,0,0.2,2,0,7,1,>50% Blockage,2,1.5,229
+144,52,Male,2,128,205,High,Normal,184,0,0,1,0,3,0,Normal,1,1.5,166.5
+145,64,Male,3,125,309,Normal,Normal,131,1,1.8,2,0,7,1,>50% Blockage,2,1.5,217
+146,58,Male,3,105,240,Normal,LVH,154,1,0.6,2,0,7,0,Normal,1,1.5,172.5
+147,47,Male,3,108,243,Normal,Normal,152,0,0,1,0,3,1,>50% Blockage,2,1.5,175.5
+148,57,Male,None,165,289,High,LVH,124,0,1,2,3,7,4,>50% Blockage,2,0.5,227
+149,41,Male,3,112,250,Normal,Normal,179,0,0,1,0,3,0,Normal,1,1.5,181
+150,45,Male,2,128,308,Normal,LVH,170,0,0,1,0,3,0,Normal,1,1.5,218
+151,60,Female,3,102,318,Normal,Normal,160,0,0,1,1,3,0,Normal,1,1.5,210
+152,52,Male,1,152,298,High,Normal,178,0,1.2,2,0,7,0,Normal,1,1.5,225
+153,42,Female,None,102,265,Normal,LVH,122,0,0.6,2,0,3,0,Normal,1,0.5,183.5
+154,67,Female,3,115,564,Normal,LVH,160,0,1.6,2,0,7,0,Normal,1,1.5,339.5
+155,55,Male,None,160,289,Normal,LVH,145,1,0.8,2,1,7,4,>50% Blockage,2,0.5,224.5
+156,64,Male,None,120,246,Normal,LVH,96,1,2.2,3,1,3,3,>50% Blockage,2,0.5,183
+157,70,Male,None,130,322,Normal,LVH,109,0,2.4,2,3,3,1,>50% Blockage,2,0.5,226
+158,51,Male,None,140,299,Normal,Normal,173,1,1.6,1,0,7,1,>50% Blockage,2,0.5,219.5
+159,58,Male,None,125,300,Normal,LVH,171,0,0,1,2,7,1,>50% Blockage,2,0.5,212.5
+160,60,Male,None,140,293,Normal,LVH,170,0,1.2,2,2,7,2,>50% Blockage,2,0.5,216.5
+161,68,Male,3,118,277,Normal,Normal,151,0,1,1,1,7,0,Normal,1,1.5,197.5
+162,46,Male,2,101,197,High,Normal,156,0,0,1,0,7,0,Normal,1,1.5,149
+163,77,Male,None,125,304,Normal,LVH,162,1,0,1,3,3,4,>50% Blockage,2,0.5,214.5
+164,54,Female,3,110,214,Normal,Normal,158,0,1.6,2,0,3,0,Normal,1,1.5,162
+165,58,Female,None,100,248,Normal,LVH,122,0,1,2,0,3,0,Normal,1,0.5,174
+166,48,Male,3,124,255,High,Normal,175,0,0,1,2,3,0,Normal,1,1.5,189.5
+167,57,Male,None,132,207,Normal,Normal,168,1,0,1,0,7,0,Normal,1,0.5,169.5
+168,52,Male,3,138,223,Normal,Normal,169,0,0,1,?,3,0,Normal,1,1.5,180.5
+169,54,Female,2,132,288,High,LVH,159,1,0,1,1,3,0,Normal,1,1.5,210
+170,35,Male,None,126,282,Normal,LVH,156,1,0,1,0,7,1,>50% Blockage,2,0.5,204
+171,45,Female,2,112,160,Normal,Normal,138,0,0,2,0,3,0,Normal,1,1.5,136
+172,70,Male,3,160,269,Normal,Normal,112,1,2.9,2,1,7,3,>50% Blockage,2,1.5,214.5
+173,53,Male,None,142,226,Normal,LVH,111,1,0,1,0,7,0,Normal,1,0.5,184
+174,59,Female,None,174,249,Normal,Normal,143,1,0,2,0,3,1,>50% Blockage,2,0.5,211.5
+175,62,Female,None,140,394,Normal,LVH,157,0,1.2,2,0,3,0,Normal,1,0.5,267
+176,64,Male,None,145,212,Normal,LVH,132,0,2,2,2,6,4,>50% Blockage,2,0.5,178.5
+177,57,Male,None,152,274,Normal,Normal,88,1,1.2,2,1,7,1,>50% Blockage,2,0.5,213
+178,52,Male,None,108,233,High,Normal,147,0,0.1,1,3,7,0,Normal,1,0.5,170.5
+179,56,Male,None,132,184,Normal,LVH,105,1,2.1,2,1,6,1,>50% Blockage,2,0.5,158
+180,43,Male,3,130,315,Normal,Normal,162,0,1.9,1,1,3,0,Normal,1,1.5,222.5
+181,53,Male,3,130,246,High,LVH,173,0,0,1,3,3,0,Normal,1,1.5,188
+182,48,Male,None,124,274,Normal,LVH,166,0,0.5,2,0,7,3,>50% Blockage,2,0.5,199
+183,56,Female,None,134,409,Normal,LVH,150,1,1.9,2,2,7,2,>50% Blockage,2,0.5,271.5
+184,42,Male,1,148,244,Normal,LVH,178,0,0.8,1,2,3,0,Normal,1,1.5,196
+185,59,Male,1,178,270,Normal,LVH,145,0,4.2,3,0,7,0,Normal,1,1.5,224
+186,60,Female,None,158,305,Normal,LVH,161,0,0,1,0,3,1,>50% Blockage,2,0.5,231.5
+187,63,Female,2,140,195,Normal,Normal,179,0,0,1,2,3,0,Normal,1,1.5,167.5
+188,42,Male,3,120,240,High,Normal,194,0,0.8,3,0,7,0,Normal,1,1.5,180
+189,66,Male,2,160,246,Normal,Normal,120,1,0,2,3,6,2,>50% Blockage,2,1.5,203
+190,54,Male,2,192,283,Normal,LVH,195,0,0,1,1,7,1,>50% Blockage,2,1.5,237.5
+191,69,Male,3,140,254,Normal,LVH,146,0,2,2,3,7,2,>50% Blockage,2,1.5,197
+192,50,Male,3,129,196,Normal,Normal,163,0,0,1,0,3,0,Normal,1,1.5,162.5
+193,51,Male,None,140,298,Normal,Normal,122,1,4.2,2,3,7,3,>50% Blockage,2,0.5,219
+194,43,Male,None,132,247,High,LVH,143,1,0.1,2,?,7,1,>50% Blockage,2,0.5,189.5
+195,62,Female,None,138,294,High,Normal,106,0,1.9,2,3,3,2,>50% Blockage,2,0.5,216
+196,68,Female,3,120,211,Normal,LVH,115,0,1.5,2,0,3,0,Normal,1,1.5,165.5
+197,67,Male,None,100,299,Normal,LVH,125,1,0.9,2,2,3,3,>50% Blockage,2,0.5,199.5
+198,69,Male,1,160,234,High,LVH,131,0,0.1,2,1,3,0,Normal,1,1.5,197
+199,45,Female,None,138,236,Normal,LVH,152,1,0.2,2,0,3,0,Normal,1,0.5,187
+200,50,Female,2,120,244,Normal,Normal,162,0,1.1,1,0,3,0,Normal,1,1.5,182
+201,59,Male,1,160,273,Normal,LVH,125,0,0,1,0,3,1,>50% Blockage,2,1.5,216.5
+202,50,Female,None,110,254,Normal,LVH,159,0,0,1,0,3,0,Normal,1,0.5,182
+203,64,Female,None,180,325,Normal,Normal,154,1,0,1,0,3,0,Normal,1,0.5,252.5
+204,57,Male,3,150,126,High,Normal,173,0,0.2,1,1,7,0,Normal,1,1.5,138
+205,64,Female,3,140,313,Normal,Normal,133,0,0.2,1,0,7,0,Normal,1,1.5,226.5
+206,43,Male,None,110,211,Normal,Normal,161,0,0,1,0,7,0,Normal,1,0.5,160.5
+207,45,Male,None,142,309,Normal,LVH,147,1,0,2,3,7,3,>50% Blockage,2,0.5,225.5
+208,58,Male,None,128,259,Normal,LVH,130,1,3,2,2,7,3,>50% Blockage,2,0.5,193.5
+209,50,Male,None,144,200,Normal,LVH,126,1,0.9,2,0,7,3,>50% Blockage,2,0.5,172
+210,55,Male,2,130,262,Normal,Normal,155,0,0,1,0,3,0,Normal,1,1.5,196
+211,62,Female,None,150,244,Normal,Normal,154,1,1.4,2,0,3,1,>50% Blockage,2,0.5,197
+212,37,Female,3,120,215,Normal,Normal,170,0,0,1,0,3,0,Normal,1,1.5,167.5
+213,38,Male,1,120,231,Normal,Normal,182,1,3.8,2,0,7,4,>50% Blockage,2,1.5,175.5
+214,41,Male,3,130,214,Normal,LVH,168,0,2,2,0,3,0,Normal,1,1.5,172
+215,66,Female,None,178,228,High,Normal,165,1,1,2,2,7,3,>50% Blockage,2,0.5,203
+216,52,Male,None,112,230,Normal,Normal,160,0,0,1,1,3,1,>50% Blockage,2,0.5,171
+217,56,Male,1,120,193,Normal,LVH,162,0,1.9,2,0,7,0,Normal,1,1.5,156.5
+218,46,Female,2,105,204,Normal,Normal,172,0,0,1,0,3,0,Normal,1,1.5,154.5
+219,46,Female,None,138,243,Normal,LVH,152,1,0,2,0,3,0,Normal,1,0.5,190.5
+220,64,Female,None,130,303,Normal,Normal,122,0,2,2,2,3,0,Normal,1,0.5,216.5
+221,59,Male,None,138,271,Normal,LVH,182,0,0,1,0,3,0,Normal,1,0.5,204.5
+222,41,Female,3,112,268,Normal,LVH,172,1,0,1,0,3,0,Normal,1,1.5,190
+223,54,Female,3,108,267,Normal,LVH,167,0,0,1,0,3,0,Normal,1,1.5,187.5
+224,39,Female,3,94,199,Normal,Normal,179,0,0,1,0,3,0,Normal,1,1.5,146.5
+225,53,Male,None,123,282,Normal,Normal,95,1,2,2,2,7,3,>50% Blockage,2,0.5,202.5
+226,63,Female,None,108,269,Normal,Normal,169,1,1.8,2,2,3,1,>50% Blockage,2,0.5,188.5
+227,34,Female,2,118,210,Normal,Normal,192,0,0.7,1,0,3,0,Normal,1,1.5,164
+228,47,Male,None,112,204,Normal,Normal,143,0,0.1,1,0,3,0,Normal,1,0.5,158
+229,67,Female,3,152,277,Normal,Normal,172,0,0,1,1,3,0,Normal,1,1.5,214.5
+230,54,Male,None,110,206,Normal,LVH,108,1,0,2,1,3,3,>50% Blockage,2,0.5,158
+231,66,Male,None,112,212,Normal,LVH,132,1,0.1,1,1,3,2,>50% Blockage,2,0.5,162
+232,52,Female,3,136,196,Normal,LVH,169,0,0.1,2,0,3,0,Normal,1,1.5,166
+233,55,Female,None,180,327,Normal,ST segment,117,1,3.4,2,0,3,2,>50% Blockage,2,0.5,253.5
+234,49,Male,3,118,149,Normal,LVH,126,0,0.8,1,3,3,1,>50% Blockage,2,1.5,133.5
+235,74,Female,2,120,269,Normal,LVH,121,1,0.2,1,1,3,0,Normal,1,1.5,194.5
+236,54,Female,3,160,201,Normal,Normal,163,0,0,1,1,3,0,Normal,1,1.5,180.5
+237,54,Male,None,122,286,Normal,LVH,116,1,3.2,2,2,3,3,>50% Blockage,2,0.5,204
+238,56,Male,None,130,283,High,LVH,103,1,1.6,3,0,7,2,>50% Blockage,2,0.5,206.5
+239,46,Male,None,120,249,Normal,LVH,144,0,0.8,1,0,7,1,>50% Blockage,2,0.5,184.5
+240,49,Female,2,134,271,Normal,Normal,162,0,0,2,0,3,0,Normal,1,1.5,202.5
+241,42,Male,2,120,295,Normal,Normal,162,0,0,1,0,3,0,Normal,1,1.5,207.5
+242,41,Male,2,110,235,Normal,Normal,153,0,0,1,0,3,0,Normal,1,1.5,172.5
+243,41,Female,2,126,306,Normal,Normal,163,0,0,1,0,3,0,Normal,1,1.5,216
+244,49,Female,None,130,269,Normal,Normal,163,0,0,1,0,3,0,Normal,1,0.5,199.5
+245,61,Male,1,134,234,Normal,Normal,145,0,2.6,2,2,3,2,>50% Blockage,2,1.5,184
+246,60,Female,3,120,178,High,Normal,96,0,0,1,0,3,0,Normal,1,1.5,149
+247,67,Male,None,120,237,Normal,Normal,71,0,1,2,0,3,2,>50% Blockage,2,0.5,178.5
+248,58,Male,None,100,234,Normal,Normal,156,0,0.1,1,1,7,2,>50% Blockage,2,0.5,167
+249,47,Male,None,110,275,Normal,LVH,118,1,1,2,1,3,1,>50% Blockage,2,0.5,192.5
+250,52,Male,None,125,212,Normal,Normal,168,0,1,1,2,7,3,>50% Blockage,2,0.5,168.5
+251,62,Male,2,128,208,High,LVH,140,0,0,1,0,3,0,Normal,1,1.5,168
+252,57,Male,None,110,201,Normal,Normal,126,1,1.5,2,0,6,0,Normal,1,0.5,155.5
+253,58,Male,None,146,218,Normal,Normal,105,0,2,2,1,7,1,>50% Blockage,2,0.5,182
+254,64,Male,None,128,263,Normal,Normal,105,1,0.2,2,1,7,0,Normal,1,0.5,195.5
+255,51,Female,3,120,295,Normal,LVH,157,0,0.6,1,0,3,0,Normal,1,1.5,207.5
+256,43,Male,None,115,303,Normal,Normal,181,0,1.2,2,0,3,0,Normal,1,0.5,209
+257,42,Female,3,120,209,Normal,Normal,173,0,0,2,0,3,0,Normal,1,1.5,164.5
+258,67,Female,None,106,223,Normal,Normal,142,0,0.3,1,2,3,0,Normal,1,0.5,164.5
+259,76,Female,3,140,197,Normal,ST segment,116,0,1.1,2,0,3,0,Normal,1,1.5,168.5
+260,70,Male,2,156,245,Normal,LVH,143,0,0,1,0,3,0,Normal,1,1.5,200.5
+261,57,Male,2,124,261,Normal,Normal,141,0,0.3,1,0,7,1,>50% Blockage,2,1.5,192.5
+262,44,Female,3,118,242,Normal,Normal,149,0,0.3,2,1,3,0,Normal,1,1.5,180
+263,58,Female,2,136,319,High,LVH,152,0,0,1,2,3,3,>50% Blockage,2,1.5,227.5
+264,60,Female,1,150,240,Normal,Normal,171,0,0.9,1,0,3,0,Normal,1,1.5,195
+265,44,Male,3,120,226,Normal,Normal,169,0,0,1,0,3,0,Normal,1,1.5,173
+266,61,Male,None,138,166,Normal,LVH,125,1,3.6,2,1,3,4,>50% Blockage,2,0.5,152
+267,42,Male,None,136,315,Normal,Normal,125,1,1.8,2,0,6,2,>50% Blockage,2,0.5,225.5
+268,52,Male,None,128,204,High,Normal,156,1,1,2,0,?,2,>50% Blockage,2,0.5,166
+269,59,Male,3,126,218,High,Normal,134,0,2.2,2,1,6,2,>50% Blockage,2,1.5,172
+270,40,Male,None,152,223,Normal,Normal,181,0,0,1,0,7,1,>50% Blockage,2,0.5,187.5
+271,42,Male,3,130,180,Normal,Normal,150,0,0,1,0,3,0,Normal,1,1.5,155
+272,61,Male,None,140,207,Normal,LVH,138,1,1.9,1,1,7,1,>50% Blockage,2,0.5,173.5
+273,66,Male,None,160,228,Normal,LVH,138,0,2.3,1,0,6,0,Normal,1,0.5,194
+274,46,Male,None,140,311,Normal,Normal,120,1,1.8,2,2,7,2,>50% Blockage,2,0.5,225.5
+275,71,Female,None,112,149,Normal,Normal,125,0,1.6,2,0,3,0,Normal,1,0.5,130.5
+276,59,Male,1,134,204,Normal,Normal,162,0,0.8,1,2,3,1,>50% Blockage,2,1.5,169
+277,64,Male,1,170,227,Normal,LVH,155,0,0.6,2,0,7,0,Normal,1,1.5,198.5
+278,66,Female,3,146,278,Normal,LVH,152,0,0,2,1,3,0,Normal,1,1.5,212
+279,39,Female,3,138,220,Normal,Normal,152,0,0,2,0,3,0,Normal,1,1.5,179
+280,57,Male,2,154,232,Normal,LVH,164,0,0,1,1,3,1,>50% Blockage,2,1.5,193
+281,58,Female,None,130,197,Normal,Normal,131,0,0.6,2,0,3,0,Normal,1,0.5,163.5
+282,57,Male,None,110,335,Normal,Normal,143,1,3,2,1,7,2,>50% Blockage,2,0.5,222.5
+283,47,Male,3,130,253,Normal,Normal,179,0,0,1,0,3,0,Normal,1,1.5,191.5
+284,55,Female,None,128,205,Normal,ST segment,130,1,2,2,1,7,3,>50% Blockage,2,0.5,166.5
+285,35,Male,2,122,192,Normal,Normal,174,0,0,1,0,3,0,Normal,1,1.5,157
+286,61,Male,None,148,203,Normal,Normal,161,0,0,1,1,7,2,>50% Blockage,2,0.5,175.5
+287,58,Male,None,114,318,Normal,ST segment,140,0,4.4,3,3,6,4,>50% Blockage,2,0.5,216
+288,58,Female,None,170,225,High,LVH,146,1,2.8,2,2,6,2,>50% Blockage,2,0.5,197.5
+289,58,Male,2,125,220,Normal,Normal,144,0,0.4,2,?,7,0,Normal,1,1.5,172.5
+290,56,Male,2,130,221,Normal,LVH,163,0,0,1,0,7,0,Normal,1,1.5,175.5
+291,56,Male,2,120,240,Normal,Normal,169,0,0,3,0,3,0,Normal,1,1.5,180
+292,67,Male,3,152,212,Normal,LVH,150,0,0.8,2,0,7,1,>50% Blockage,2,1.5,182
+293,55,Female,2,132,342,Normal,Normal,166,0,1.2,1,0,3,0,Normal,1,1.5,237
+294,44,Male,None,120,169,Normal,Normal,144,1,2.8,3,0,6,2,>50% Blockage,2,0.5,144.5
+295,63,Male,None,140,187,Normal,LVH,144,1,4,1,2,7,2,>50% Blockage,2,0.5,163.5
+296,63,Female,None,124,197,Normal,Normal,136,1,0,2,0,3,1,>50% Blockage,2,0.5,160.5
+297,41,Male,2,120,157,Normal,Normal,182,0,0,1,0,3,0,Normal,1,1.5,138.5
+298,59,Male,None,164,176,High,LVH,90,0,1,2,2,6,3,>50% Blockage,2,0.5,170
+299,57,Female,None,140,241,Normal,Normal,123,1,0.2,2,0,7,1,>50% Blockage,2,0.5,190.5
+300,45,Male,1,110,264,Normal,Normal,132,0,1.2,2,0,7,1,>50% Blockage,2,1.5,187
+301,68,Male,None,144,193,High,Normal,141,0,3.4,2,2,7,2,>50% Blockage,2,0.5,168.5
+302,57,Male,None,130,131,Normal,Normal,115,1,1.2,2,1,7,3,>50% Blockage,2,0.5,130.5
+303,57,Female,2,130,236,Normal,LVH,174,0,0,2,1,3,1,>50% Blockage,2,1.5,183
+304,38,Male,3,138,175,Normal,Normal,173,0,0,1,?,3,0,Normal,1,1.5,156.5
