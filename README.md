@@ -1,8 +1,10 @@
 # rpart
-This is the source for a decision tree machine learning Shiny app (based on package rpart GNU v3) used for Health Informatics Master's curriculum at at KI/SU 2017  
+This is the source for a cardiac risk predicting Shiny app (based on decision tree package rpart GNU v3) created for use in for Health Informatics Master's curriculum at at KI/SU in 2017. 
 
 # application
-app.R is an original shiny app that contains both ui object and server functions written in R using multiple R packages, under GNU v3, and to be hosted on a shiny server, for instance, shinyapps.io  
+app.R is an original shiny app that contains both ui object and server functions written in R using multiple R packages, under GNU v3, and to be hosted on a shiny server: for instance, shinyapps.io  
+
+It is created for educational purposes during graduate degree program, and in current form, is not intended to be actually used for direct patient care. 
 
 # resources in project directory 
 csv files: pre-processed Heart Disease data from Machine Learning Repository at UC-Irvine
