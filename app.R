@@ -5,6 +5,8 @@
 # It is created for educational purposes during graduate degree program, 
 # and in current form, is not intended for direct patient care.
 # Copyright (C) 2017 Nathaniel P. Brown MD
+# Project contributors include: Christina Mannerheim, Kishore Patel, Martîn Krämér,
+#  Thibaud Richard, and Raghed Bitaar
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
