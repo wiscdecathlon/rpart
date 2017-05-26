@@ -20,7 +20,7 @@ html files: original author work, hereafter included under GNU v3
 
 # Necessary resources to include in www folder at runtime:  
 css files: bootstrap.css licensed under MIT and available http://bootswatch.com
-png file: original work, hereafter included under GNU v3 
+png file: original work by Martîn Krämér B.S., hereafter included app GNU v3 
 
 Attribution for original R code of app.R is Nathaniel Brown, M.D. 
 
