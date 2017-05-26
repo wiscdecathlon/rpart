@@ -1,5 +1,5 @@
 # What is it? 
-This is the source for a cardiac risk predicting Shiny app (based on decision tree package rpart GNU v3) created for use in assignment for Health Informatics Master's curriculum at Karolinska Institutet/Stockholm University in May 2017. 
+This is the source for a cardiac risk predicting Shiny app (based on decision tree package rpart GNU v3) created for use in an assignment for Health Informatics Master's curriculum at Karolinska Institutet/Stockholm University in May 2017. 
 
 # app.R
 app.R is an original shiny app that contains both ui object and server functions written in R using common R packages and open source documentation, under GNU v3, for hosting on a shiny server: for instance, shinyapps.io  
