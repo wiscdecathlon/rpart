@@ -24,4 +24,5 @@ png file: original work by Martîn Krämér B.S., hereafter included under GNU v
 
 Attribution for app.R is Nathaniel P. Brown, M.D. 
 
+Contributors include: Christina Mannerheim, Kishore Patel, Martîn Krämér, Thibaud Richard, and Raghed Bitaar 
 
