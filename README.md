@@ -7,7 +7,7 @@ app.R is an original shiny app that contains both ui object and server functions
 It is created for educational purposes during graduate degree program; in current form, is not intended to be actually used for direct patient care, given unproven clincial effectiveness. 
 
 # Necessary resources to locate in project directory:  
-csv files: pre-processed Heart Disease data from Machine Learning Repository at UC-Irvine
+csv files: pre-processed Heart Disease data from Machine Learning Repository at UC-Irvine. 
 Original source: http://archive.ics.uci.edu/ml/datasets/heart+Disease
 
 The original authors of the UCI databases have requested that any publications resulting from the use of the data include the names of the principal investigator responsible for the data collection at each institution. They would be: 
